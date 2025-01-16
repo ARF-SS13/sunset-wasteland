@@ -1,0 +1,12578 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aw" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"aF" = (
+/obj/structure/table/wood/settler,
+/obj/machinery/computer/libraryconsole/bookmanagement{
+	pixel_y = 6;
+	dir = 4
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"aI" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"aV" = (
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"bq" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 12
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"bu" = (
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"cc" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 8
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"cn" = (
+/obj/structure/table/booth,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"cD" = (
+/obj/structure/rack/shelf_metal,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"cI" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"db" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowbottom";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"ds" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"dL" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"eo" = (
+/obj/structure/table/glass,
+/obj/item/storage/box/beakers{
+	pixel_x = 7;
+	pixel_y = 11
+	},
+/obj/item/storage/box/medsprays{
+	pixel_x = -3;
+	pixel_y = 13
+	},
+/obj/item/storage/box/pillbottles{
+	pixel_x = 10;
+	pixel_y = 7
+	},
+/obj/item/storage/box/syringes,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"es" = (
+/obj/machinery/light/small,
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"ev" = (
+/obj/structure/chair/pew/right{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"ew" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/chair/left{
+	dir = 4
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"eB" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowhorizontal";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"eO" = (
+/obj/structure/simple_door/tent,
+/obj/structure/decoration/rag,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"eV" = (
+/obj/structure/table/reinforced,
+/obj/machinery/light,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"fl" = (
+/obj/machinery/libraryscanner,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"ft" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"fu" = (
+/obj/machinery/biogenerator,
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"fx" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"fB" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress2";
+	pixel_y = 9
+	},
+/obj/structure/bed/mattress{
+	icon_state = "mattress2";
+	pixel_y = -4
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"fG" = (
+/obj/structure/rack/shelf_metal,
+/obj/machinery/light,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"fL" = (
+/obj/structure/well_foundation{
+	name = "loose ashes";
+	color = "#616569"
+	},
+/obj/structure/bonfire/dense/prelit{
+	pixel_y = 4
+	},
+/turf/open/indestructible/ground/outside/gravel{
+	color = "#777777"
+	},
+/area/f13/wasteland)
+"fN" = (
+/obj/structure/table/reinforced,
+/obj/structure/barricade/barswindow{
+	dir = 4
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"fO" = (
+/turf/open/indestructible/ground/outside/gravel{
+	color = "#777777"
+	},
+/area/f13/wasteland)
+"fQ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/closed/wall/f13/coyote/oldwood{
+	color = "gray"
+	},
+/area/f13/wasteland)
+"fR" = (
+/obj/structure/decoration/rag,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"fW" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"gb" = (
+/obj/structure/closet/crate/wooden{
+	pixel_y = 10
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"gg" = (
+/obj/machinery/light{
+	dir = 1;
+	layer = 2.9
+	},
+/obj/structure/table/wood/settler,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"gu" = (
+/obj/structure/barricade/wooden/planks/pregame,
+/obj/structure/decoration/rag{
+	icon_state = "skin"
+	},
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"gS" = (
+/obj/structure/sink/greyscale{
+	dir = 8;
+	pixel_x = -13;
+	pixel_y = 12
+	},
+/obj/structure/sink/greyscale{
+	dir = 8;
+	pixel_x = -13
+	},
+/obj/structure/rug/big/rug_rubber{
+	layer = 1;
+	pixel_y = -10;
+	pixel_x = 17
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"gX" = (
+/obj/structure/table/wood/settler,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"he" = (
+/obj/machinery/smartfridge/chemistry,
+/turf/closed/wall/f13/wood/house,
+/area/f13/wasteland)
+"hs" = (
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"hw" = (
+/obj/structure/table/booth,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"hT" = (
+/obj/structure/destructible/tribal_torch/wall/lit,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"ik" = (
+/obj/structure/barricade/tentclothcorner{
+	dir = 4
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"iM" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"iN" = (
+/obj/structure/decoration/rag{
+	icon_state = "skin";
+	pixel_y = 0
+	},
+/obj/structure/decoration/rag,
+/turf/closed/wall/corrugated,
+/area/f13/wasteland)
+"iO" = (
+/obj/structure/rug/mat/welcome{
+	dir = 1
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"jc" = (
+/obj/machinery/rnd/destructive_analyzer,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"jA" = (
+/obj/structure/table/booth,
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"jG" = (
+/obj/structure/simple_door/house{
+	name = "hatsuzakura bar"
+	},
+/obj/item/lock_bolt,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"jJ" = (
+/obj/item/stack/rods,
+/turf/open/indestructible/ground/outside/gravel{
+	color = "#777777"
+	},
+/area/f13/wasteland)
+"jX" = (
+/obj/machinery/mineral/wasteland_trader,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"kh" = (
+/obj/structure/fence/wooden{
+	dir = 1;
+	pixel_x = -19
+	},
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 4
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"kq" = (
+/obj/machinery/vending/hydronutrients{
+	force_free = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"kr" = (
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"kz" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowright";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"kA" = (
+/obj/structure/decoration/rag,
+/obj/structure/barricade/wooden/planks/pregame,
+/obj/structure/decoration/rag{
+	icon_state = "skin"
+	},
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"kD" = (
+/obj/machinery/light/floor,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"kL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/window/fulltile/stainedglass/woodwindowwhite,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"kP" = (
+/obj/machinery/processor,
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"kS" = (
+/obj/structure/barricade/tentclothcorner,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"kW" = (
+/turf/open/floor/plasteel/stairs{
+	barefootstep = "woodbarefoot";
+	color = "#A47449";
+	footstep = "wood"
+	},
+/area/f13/wasteland)
+"lb" = (
+/obj/structure/window/fulltile/wood,
+/obj/structure/curtain/directional/east{
+	color = "pink"
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"lc" = (
+/obj/structure/chair/right{
+	dir = 4
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"lg" = (
+/obj/structure/window/fulltile/stainedglass/woodwindowwhite,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"ll" = (
+/obj/structure/table,
+/obj/item/storage/backpack/duffelbag/med/surgery,
+/obj/item/reagent_containers/spray/cleaner,
+/obj/item/storage/box/gloves,
+/obj/item/storage/box/masks,
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"lm" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/chair/right{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"lo" = (
+/obj/structure/window/fulltile/wood_window,
+/obj/structure/curtain/directional/north{
+	color = "#ACD1E9"
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"ls" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"lw" = (
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"lG" = (
+/turf/open/floor/plasteel/f13/vault_floor/purple/side,
+/area/f13/wasteland)
+"mf" = (
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"mg" = (
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"mh" = (
+/obj/structure/table/wood/settler,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"mJ" = (
+/obj/structure/window/fulltile/wood_window,
+/turf/open/floor/wood_common,
+/area/f13/wasteland)
+"mN" = (
+/obj/structure/table/wasteland,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"nc" = (
+/obj/structure/chair/stool{
+	dir = 4;
+	icon_state = "bench"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"nn" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress5"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"nr" = (
+/obj/structure/chair/wood,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"ns" = (
+/obj/structure/simple_door/tentflap_cloth,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"nB" = (
+/obj/structure/simple_door/room{
+	name = "Clinic"
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"nL" = (
+/obj/structure/window/fulltile/wood_window,
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"od" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/obj/structure/chair/right{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"og" = (
+/obj/structure/barricade/wooden,
+/obj/structure/decoration/rag,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"oj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"ok" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 1;
+	pixel_y = -3
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"ox" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 8
+	},
+/turf/open/transparent/openspace,
+/area/f13/wasteland)
+"oM" = (
+/obj/structure/bed/mattress{
+	pixel_y = 12
+	},
+/obj/structure/bed/mattress,
+/obj/item/bedsheet/doublesheetbrown,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"oP" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"oU" = (
+/obj/machinery/bookbinder,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"oV" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"pi" = (
+/obj/structure/sink/deep_water,
+/turf/open/indestructible/ground/outside/water{
+	desc = "Deep, poorly filtered gardening water.";
+	name = "stagnant water"
+	},
+/area/f13/wasteland)
+"pk" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/structure/chair/stool{
+	dir = 8;
+	icon_state = "bench"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"pD" = (
+/obj/structure/chair/booth{
+	dir = 4
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"qe" = (
+/obj/structure/chair/stool/bar,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"qi" = (
+/obj/machinery/autolathe/ammo,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"qM" = (
+/obj/structure/window/fulltile/wood_window,
+/obj/structure/curtain/directional/west{
+	color = "#ACD1E9"
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"rg" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 4
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"rq" = (
+/obj/structure/chair/bench{
+	dir = 4
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"rL" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/chair/left{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"rS" = (
+/obj/structure/table/wasteland,
+/obj/machinery/reagentgrinder,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"rV" = (
+/obj/structure/window/fulltile/house{
+	dir = 2;
+	icon_state = "storewindowleft";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"rX" = (
+/obj/structure/chair/office/dark{
+	dir = 8;
+	pixel_y = 1
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"sd" = (
+/obj/structure/window/fulltile/stainedglass,
+/obj/structure/curtain/directional/south,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"sh" = (
+/obj/structure/barricade/wooden/planks/pregame,
+/obj/structure/decoration/rag,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"sY" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/obj/machinery/mineral/wasteland_vendor/medical,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"tb" = (
+/obj/structure/stairs/east{
+	color = "#A47449"
+	},
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"tf" = (
+/obj/structure/table,
+/obj/item/kitchen/knife,
+/obj/item/kitchen/rollingpin,
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"to" = (
+/turf/closed/wall/f13/sunset/brick_small_light{
+	color = "#666666";
+	opacity = 0
+	},
+/area/f13/wasteland)
+"tz" = (
+/obj/structure/table/wood/settler,
+/obj/item/flashlight/littlelamp{
+	color = "grey"
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"tF" = (
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"uk" = (
+/obj/structure/chair/stool/bar,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"un" = (
+/obj/structure/chair/pew/right{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"uJ" = (
+/obj/structure/curtain{
+	color = "#363636"
+	},
+/obj/structure/fence/wooden{
+	pixel_x = 14
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"uN" = (
+/obj/structure/window/fulltile/house{
+	dir = 2;
+	icon_state = "storewindowleft";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"vM" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"vR" = (
+/obj/structure/barricade/wooden,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"wd" = (
+/obj/structure/chair/pew/right{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"wf" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"wi" = (
+/obj/machinery/mecha_part_fabricator,
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"ws" = (
+/obj/structure/table,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	pixel_y = -5;
+	pixel_x = -3;
+	dir = 1
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"wy" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentleatheredge{
+	dir = 8
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"wA" = (
+/obj/structure/simple_door/tent,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"wG" = (
+/obj/structure/bookcase,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"wI" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"wQ" = (
+/obj/structure/sink{
+	dir = 8;
+	pixel_x = -12
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"wR" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 8
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"xb" = (
+/obj/structure/rug/mat{
+	dir = 4
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"xf" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowhorizontal";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"xg" = (
+/obj/structure/table/glass,
+/obj/machinery/light{
+	dir = 8;
+	light_color = "#c1caff"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"xk" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"xl" = (
+/obj/structure/railing{
+	color = "#A47449"
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"xu" = (
+/obj/machinery/autolathe,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"xy" = (
+/obj/structure/table/glass,
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#706891"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"xD" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/rug/big/rug_yellow,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"xN" = (
+/obj/machinery/smartfridge/chemistry/preloaded,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"xW" = (
+/obj/machinery/smartfridge/bottlerack,
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"ya" = (
+/obj/structure/table/booth,
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"yt" = (
+/obj/structure/decoration/rag,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"yu" = (
+/obj/machinery/vending/hydroseeds{
+	force_free = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"yA" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"yF" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowright";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"yL" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"yO" = (
+/obj/machinery/mech_bay_recharge_port{
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"zd" = (
+/obj/machinery/iv_drip/telescopic,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"ze" = (
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/old,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"zh" = (
+/obj/structure/table,
+/obj/item/stock_parts/chem_cartridge/pristine,
+/obj/item/stock_parts/chem_cartridge/pristine,
+/obj/item/stock_parts/chem_cartridge/pristine,
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"zF" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 8
+	},
+/obj/structure/table/wood/settler,
+/obj/structure/bedsheetbin,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"zH" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"zK" = (
+/obj/structure/closet/fridge,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"zO" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/machinery/autolathe,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"zU" = (
+/obj/structure/window/fulltile/wood,
+/obj/structure/curtain/directional/west{
+	color = "pink"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Ay" = (
+/obj/machinery/computer/rdconsole/robotics{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"AI" = (
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"AP" = (
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"Bk" = (
+/obj/structure/table/wood/settler,
+/obj/item/paper{
+	pixel_y = -2;
+	pixel_x = -5
+	},
+/obj/item/paper{
+	pixel_y = -1;
+	pixel_x = 5
+	},
+/obj/item/paper{
+	pixel_x = 3;
+	pixel_y = 6
+	},
+/obj/item/paper{
+	pixel_x = -3;
+	pixel_y = 4
+	},
+/obj/item/paper,
+/obj/item/pen/fourcolor,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Bm" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/structure/decoration/rag{
+	icon_state = "skin";
+	pixel_y = 0
+	},
+/obj/structure/decoration/rag,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Bo" = (
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Bz" = (
+/obj/structure/barricade/wooden,
+/obj/structure/decoration/rag{
+	icon_state = "skin";
+	pixel_y = 0
+	},
+/obj/structure/decoration/rag,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"BK" = (
+/obj/machinery/photocopier{
+	pixel_y = 0
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"BS" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/wooden/planks/pregame,
+/obj/structure/decoration/rag,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"Ci" = (
+/obj/structure/chair/bench{
+	dir = 1
+	},
+/turf/open/indestructible/ground/outside/gravel{
+	color = "#777777"
+	},
+/area/f13/wasteland)
+"Cj" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"Cn" = (
+/obj/machinery/door/airlock/science/glass{
+	req_one_access_txt = "136";
+	name = "Botany"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"Cq" = (
+/obj/machinery/workbench/advanced,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Cs" = (
+/obj/structure/simple_door/wood,
+/obj/item/lock_bolt{
+	dir = 8
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Cw" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/window/fulltile/stainedglass/woodwindowwhite,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Cz" = (
+/turf/open/floor/plasteel/f13/vault_floor/floor,
+/area/f13/wasteland)
+"CD" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 1;
+	pixel_y = -3
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"CJ" = (
+/obj/machinery/light{
+	dir = 1;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"CM" = (
+/obj/structure/table/optable,
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"CO" = (
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"CW" = (
+/obj/structure/furnace,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"CX" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"Db" = (
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"Dq" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 4
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"DD" = (
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"DG" = (
+/obj/machinery/microwave/stove,
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"DJ" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/right{
+	dir = 4
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"DU" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress4"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Eg" = (
+/obj/structure/window/fulltile/wood,
+/obj/structure/curtain/directional/north{
+	color = "pink"
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Eu" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Ew" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Ey" = (
+/obj/structure/chair/office/dark,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"Ez" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/chair/left{
+	dir = 1
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"ED" = (
+/obj/machinery/computer/operating{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"ER" = (
+/obj/machinery/door/airlock/science/glass{
+	req_one_access_txt = "136";
+	name = "Mechanics Lab"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"EV" = (
+/turf/closed/wall/mineral/brick/old,
+/area/f13/wasteland)
+"Fe" = (
+/obj/structure/table/wood/settler,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Fk" = (
+/obj/structure/simple_door/room,
+/obj/item/lock_bolt,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"Fl" = (
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/wasteland)
+"Fp" = (
+/obj/structure/table/wasteland,
+/obj/machinery/cell_charger{
+	pixel_x = -4;
+	pixel_y = -1
+	},
+/obj/machinery/recharger{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Fq" = (
+/obj/machinery/door/unpowered/securedoor{
+	name = "Clinic";
+	req_access_txt = null
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Fz" = (
+/obj/structure/reagent_dispensers/barrel/explosive,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"FA" = (
+/obj/structure/simple_door/interior,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"FH" = (
+/turf/open/floor/plasteel/f13/vault_floor/green/side{
+	dir = 1
+	},
+/area/f13/wasteland)
+"FT" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"FV" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Gd" = (
+/obj/structure/rug/mat/welcome{
+	pixel_y = 14;
+	dir = 4
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Gz" = (
+/obj/structure/fence/wooden{
+	pixel_x = 14
+	},
+/obj/structure/curtain{
+	color = "#363636"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"GB" = (
+/obj/structure/dresser{
+	pixel_y = 2;
+	pixel_x = 2
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"GN" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 4
+	},
+/obj/structure/stairs/south{
+	color = "#A47449"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"GO" = (
+/obj/structure/reagent_dispensers/watertank/high,
+/turf/open/floor/plasteel/f13/vault_floor/floor,
+/area/f13/wasteland)
+"GW" = (
+/obj/structure/rug/big/rug_fancy{
+	pixel_x = 16;
+	pixel_y = 8
+	},
+/obj/structure/chair/sofa/corner{
+	dir = 1;
+	color = "#333333"
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"GY" = (
+/obj/structure/curtain{
+	color = "#363636"
+	},
+/obj/structure/fence/wooden{
+	pixel_x = -14
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Ha" = (
+/obj/structure/table/craft_counter,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Hd" = (
+/obj/structure/closet/fridge{
+	anchored = 1
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Hh" = (
+/obj/machinery/hydroponics/constructable,
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"Hl" = (
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Ht" = (
+/turf/closed/wall/r_wall/f13vaultrusted,
+/area/f13/wasteland)
+"HJ" = (
+/obj/dugpit{
+	color = "#34251d";
+	pixel_y = -10
+	},
+/obj/structure/chair/stool{
+	pixel_y = 10;
+	pixel_x = 1
+	},
+/obj/structure/destructible/tribal_torch/wall/lit,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"HO" = (
+/obj/structure/chair/pew/left{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"Ib" = (
+/obj/effect/turf_decal/siding/wood{
+	color = "#3B2B1A"
+	},
+/obj/structure/railing{
+	color = "#A47449"
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Il" = (
+/obj/structure/table,
+/obj/item/reagent_containers/blood/radaway,
+/obj/item/reagent_containers/blood/radaway,
+/obj/item/reagent_containers/blood/radaway,
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"Io" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"IC" = (
+/obj/machinery/rnd/production/protolathe,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"II" = (
+/obj/structure/window/fulltile/house{
+	icon_state = "storewindowright";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"IM" = (
+/obj/structure/table/glass,
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#706891"
+	},
+/obj/item/storage/box/disks_plantgene,
+/obj/item/storage/box/disks_plantgene,
+/obj/item/storage/box/disks_plantgene,
+/obj/machinery/plantgenes,
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"IT" = (
+/obj/structure/simple_door/tentflap_cloth,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"IX" = (
+/obj/machinery/chem_heater,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"Jl" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 8
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Jq" = (
+/obj/machinery/iv_drip/telescopic,
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"Js" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"JA" = (
+/obj/structure/table/glass,
+/obj/item/reagent_containers/dropper{
+	pixel_x = -5;
+	pixel_y = -6
+	},
+/obj/machinery/reagentgrinder,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"JK" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"JN" = (
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"JT" = (
+/obj/machinery/computer/rdconsole/robotics{
+	dir = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"JU" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/chair/left{
+	dir = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Kd" = (
+/obj/structure/flora/tree/pink_tree{
+	pixel_x = -50
+	},
+/obj/structure/flora/tree/pink_tree{
+	icon_state = "pink_tree_2";
+	pixel_x = -110
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Ko" = (
+/obj/machinery/light,
+/obj/machinery/gear_painter,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"KA" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/machinery/light{
+	dir = 8;
+	light_color = "#706891"
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Lb" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Lh" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentleatheredge{
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"Lk" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress2"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Lm" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 4
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Lp" = (
+/obj/structure/rug/big/rug_red,
+/obj/structure/destructible/tribal_torch/wall/lit,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"LC" = (
+/obj/structure/table/wasteland,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"LD" = (
+/turf/closed/wall/f13/coyote/oldwood{
+	color = "gray"
+	},
+/area/f13/wasteland)
+"LF" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"LH" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/structure/decoration/rag,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"LR" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"LS" = (
+/obj/machinery/door/airlock/science/glass{
+	req_one_access_txt = "136";
+	name = "Science"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"LT" = (
+/obj/structure/fence/wooden{
+	dir = 1;
+	pixel_x = 18
+	},
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 8
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Mf" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Mn" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge,
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Ms" = (
+/obj/structure/chair/booth{
+	dir = 8
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Mu" = (
+/obj/structure/barricade/tentclothcorner{
+	dir = 8
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Mw" = (
+/obj/machinery/workbench/forge,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"ML" = (
+/obj/structure/closet/cabinet/anchored{
+	pixel_x = -2;
+	pixel_y = 2
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"MT" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 8
+	},
+/obj/structure/table/wood/settler,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"MV" = (
+/obj/structure/table/wood/settler,
+/obj/structure/destructible/tribal_torch/wall/lit,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Nb" = (
+/obj/structure/table,
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Nd" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Nj" = (
+/obj/structure/window/fulltile/stainedglass,
+/obj/structure/curtain/directional/west,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"Nk" = (
+/obj/structure/window/fulltile/wood,
+/obj/structure/curtain/directional/south{
+	color = "pink"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Nl" = (
+/obj/structure/chair/left,
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Nz" = (
+/obj/structure/chair/sofa/left{
+	dir = 1;
+	icon_state = "sofamiddle";
+	color = "#333333"
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"ND" = (
+/obj/structure/anvil/obtainable/basic,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"NJ" = (
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"NZ" = (
+/obj/machinery/computer/operating,
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"Of" = (
+/obj/structure/table/wood/settler,
+/obj/item/paper_bin,
+/obj/item/pen,
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"Og" = (
+/turf/closed/wall/corrugated,
+/area/f13/wasteland)
+"Oh" = (
+/turf/open/floor/plasteel/f13/vault_floor/purple/side{
+	dir = 1
+	},
+/area/f13/wasteland)
+"Ok" = (
+/obj/structure/table,
+/obj/item/clothing/neck/stethoscope,
+/obj/item/clothing/neck/stethoscope,
+/obj/item/stock_parts/chem_cartridge/pristine,
+/obj/item/stock_parts/chem_cartridge/pristine,
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"Or" = (
+/obj/structure/table/wood/settler,
+/obj/item/flashlight/lantern,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"OB" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/wooden/planks/pregame,
+/obj/structure/decoration/rag{
+	icon_state = "skulls";
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"OD" = (
+/obj/structure/campfire/wallfire{
+	pixel_y = -1
+	},
+/turf/closed/wall/f13/coyote/darkwoodwall,
+/area/f13/wasteland)
+"OI" = (
+/turf/closed/wall/f13/sunset/brick_small_light{
+	color = "#555555"
+	},
+/area/f13/wasteland)
+"OV" = (
+/obj/structure/table/optable,
+/obj/machinery/defibrillator_mount/loaded{
+	pixel_y = 27
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"OY" = (
+/obj/structure/chair/bench,
+/turf/open/indestructible/ground/outside/gravel{
+	color = "#777777"
+	},
+/area/f13/wasteland)
+"Pd" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/chair/right,
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Pi" = (
+/obj/structure/table/wood/settler,
+/obj/item/kitchen/rollingpin,
+/obj/item/kitchen/knife/butcher,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Pu" = (
+/obj/effect/turf_decal/siding/wood{
+	color = "#3B2B1A"
+	},
+/obj/structure/railing{
+	color = "#A47449"
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Px" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/rug/mat{
+	dir = 4
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"PB" = (
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"PG" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 8
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"PY" = (
+/obj/structure/chair/pew/left{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/turf/open/floor/carpet/red,
+/area/f13/wasteland)
+"Qn" = (
+/obj/structure/chair/left{
+	dir = 4
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Qo" = (
+/obj/structure/fence/wooden{
+	pixel_x = -14
+	},
+/obj/structure/table/craft_counter,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Qp" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"Qu" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"QN" = (
+/turf/closed/wall/f13/coyote/darkwoodwall,
+/area/f13/wasteland)
+"QQ" = (
+/obj/machinery/aug_manipulator,
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"QS" = (
+/obj/structure/barricade/wooden,
+/obj/structure/decoration/rag,
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"QZ" = (
+/obj/structure/rack/shelf_wood,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Rb" = (
+/obj/structure/chair/bench{
+	dir = 8
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Rg" = (
+/turf/open/floor/plasteel/f13/vault_floor/blue/side{
+	dir = 8
+	},
+/area/f13/wasteland)
+"Rs" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"RA" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"RH" = (
+/obj/structure/chair/sofa/corner{
+	dir = 8;
+	color = "#333333"
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"RQ" = (
+/obj/structure/barricade/wooden,
+/obj/structure/decoration/rag{
+	icon_state = "skin";
+	pixel_y = 0
+	},
+/obj/structure/decoration/rag,
+/turf/open/floor/plasteel/f13{
+	icon_state = "darkrustysolid"
+	},
+/area/f13/wasteland)
+"Se" = (
+/obj/machinery/recharge_station,
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"Sh" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"Sk" = (
+/turf/open/floor/plasteel/f13/vault_floor/blue/side{
+	dir = 4
+	},
+/area/f13/wasteland)
+"Sm" = (
+/obj/structure/table/wood/settler,
+/obj/item/reagent_containers/food/condiment/saltshaker{
+	pixel_y = 10;
+	pixel_x = 8
+	},
+/obj/item/reagent_containers/food/condiment/peppermill{
+	pixel_y = 10;
+	pixel_x = 2
+	},
+/obj/machinery/processor/chopping_block,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"ST" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/condiment/peppermill{
+	pixel_x = 5
+	},
+/obj/item/reagent_containers/food/condiment/saltshaker{
+	pixel_x = -5
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"SW" = (
+/obj/structure/closet/cabinet,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Tw" = (
+/obj/structure/chair/office/dark{
+	dir = 8
+	},
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"Ty" = (
+/obj/structure/stairs/east{
+	color = "#A47449"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"TC" = (
+/obj/machinery/chem_dispenser,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"TE" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/chair/right{
+	dir = 1
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"TJ" = (
+/obj/structure/barricade/tentclothcorner{
+	dir = 1
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"TP" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"TV" = (
+/obj/structure/table/reinforced,
+/obj/item/mmi,
+/obj/item/mmi,
+/obj/item/mmi,
+/obj/item/storage/toolbox/mechanical,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"Uf" = (
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"Uo" = (
+/obj/item/kirbyplants{
+	icon_state = "plant-10";
+	layer = 2.9;
+	pixel_y = 15;
+	name = "Sakura Blossom";
+	desc = "A japanese cherry blossom tree, an absolute treasure in the wasteland."
+	},
+/obj/structure/table/craft_counter,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"UD" = (
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/tentclothedge{
+	dir = 4
+	},
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"US" = (
+/obj/structure/rug/big/rug_blue_shag{
+	dir = 4;
+	pixel_x = -8
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"UU" = (
+/obj/machinery/chem_master/primitive,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"Vl" = (
+/obj/structure/fence/wooden{
+	pixel_x = -14
+	},
+/obj/structure/curtain{
+	color = "#363636"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"Vr" = (
+/obj/structure/table,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/machinery/light{
+	light_color = "#e8eaff";
+	dir = 1
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Vy" = (
+/obj/machinery/rnd/production/circuit_imprinter,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"VC" = (
+/obj/machinery/rnd/production/circuit_imprinter,
+/turf/open/floor/plasteel/f13/vault_floor/blue,
+/area/f13/wasteland)
+"VD" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"VO" = (
+/obj/structure/nightstand/small{
+	pixel_x = 9;
+	pixel_y = 20
+	},
+/obj/item/flashlight/littlelamp{
+	pixel_y = 23;
+	pixel_x = 9;
+	color = "grey"
+	},
+/obj/item/kirbyplants{
+	icon_state = "plant-17";
+	layer = 2.9;
+	pixel_y = 22;
+	pixel_x = -4
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"VU" = (
+/obj/structure/window/fulltile/wood,
+/obj/structure/curtain/directional/east{
+	color = "pink"
+	},
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"VV" = (
+/obj/machinery/trading_machine/medical{
+	icon_state = "numed_idle";
+	idle_icon_state = "numed_idle";
+	color = "#c9ffbd"
+	},
+/turf/closed/wall/f13/wood/house,
+/area/f13/wasteland)
+"VZ" = (
+/obj/structure/window/fulltile/wood_window,
+/turf/open/floor/carpet/blue,
+/area/f13/wasteland)
+"We" = (
+/obj/structure/decoration/rag{
+	icon_state = "skin"
+	},
+/turf/closed/wall/f13/tentwall,
+/area/f13/wasteland)
+"Wk" = (
+/obj/structure/chair/f13foldupchair{
+	dir = 4
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"WF" = (
+/obj/structure/decoration/rag,
+/obj/structure/curtain{
+	color = "white"
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"WK" = (
+/obj/structure/sacrificealtar{
+	density = 1;
+	icon_state = "sacrificealtar-red";
+	name = "altar";
+	pixel_y = 7
+	},
+/obj/effect/turf_decal/siding/wood{
+	color = "#3B2B1A"
+	},
+/obj/structure/railing{
+	color = "#A47449"
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"WR" = (
+/obj/structure/table,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	pixel_y = -5;
+	pixel_x = 3;
+	dir = 1
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Xc" = (
+/obj/structure/closet/crate/freezer/blood,
+/turf/open/floor/plasteel/f13/vault_floor/white,
+/area/f13/wasteland)
+"Xg" = (
+/obj/structure/barricade/wooden,
+/obj/structure/decoration/rag{
+	icon_state = "skin"
+	},
+/obj/structure/barricade/wooden/planks/pregame,
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Xk" = (
+/obj/structure/destructible/tribal_torch/lit,
+/turf/open/indestructible/ground/outside/dirt,
+/area/f13/wasteland)
+"Xt" = (
+/obj/machinery/chem_master,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite{
+	icon_state = "showroomfloor";
+	name = "tile"
+	},
+/area/f13/wasteland)
+"Xy" = (
+/obj/structure/window/fulltile/house{
+	dir = 2;
+	icon_state = "storewindowtop";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/wasteland)
+"XE" = (
+/obj/structure/table/booth,
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"XH" = (
+/obj/machinery/seed_extractor,
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+"XJ" = (
+/obj/structure/fence/wooden{
+	pixel_x = 14
+	},
+/obj/structure/table/craft_counter,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood_mosaic/wood_mosaic_dark,
+/area/f13/wasteland)
+"XW" = (
+/obj/machinery/light{
+	light_color = "#706891"
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"Yg" = (
+/obj/machinery/light{
+	dir = 8;
+	light_color = "#706891"
+	},
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Yp" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/indestructible/ground/inside/subway{
+	name = "rough asphalt"
+	},
+/area/f13/wasteland)
+"Yw" = (
+/obj/structure/rug/big/rug_blue_shag{
+	pixel_y = 10
+	},
+/turf/open/indestructible/ground/inside/dirt,
+/area/f13/wasteland)
+"Yy" = (
+/obj/effect/turf_decal/siding/wood{
+	color = "#3B2B1A";
+	dir = 10
+	},
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 10
+	},
+/turf/open/floor/carpet/purple,
+/area/f13/wasteland)
+"YR" = (
+/turf/closed/wall/mineral/brick,
+/area/f13/wasteland)
+"YU" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/stairs/north{
+	color = "#A47449"
+	},
+/turf/open/floor/f13/wood,
+/area/f13/wasteland)
+"YW" = (
+/obj/structure/table,
+/obj/machinery/reagentgrinder,
+/turf/open/floor/f13{
+	icon_state = "darkdirtysolid"
+	},
+/area/f13/wasteland)
+"Zz" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/f13/wood{
+	icon_state = "oakfloor1"
+	},
+/area/f13/wasteland)
+"ZS" = (
+/obj/structure/rug/big/rug_fancy,
+/obj/machinery/light/small{
+	dir = 8;
+	pixel_y = 0
+	},
+/turf/open/floor/wood_common{
+	color = "#779999"
+	},
+/area/f13/wasteland)
+"ZX" = (
+/obj/structure/window/fulltile/house{
+	dir = 2;
+	icon_state = "storewindowleft";
+	name = "window"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/wasteland)
+
+(1,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(2,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(3,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(4,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(5,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(6,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(7,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(8,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(9,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(10,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(11,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(12,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(13,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(14,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(15,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(16,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(17,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(18,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(19,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(20,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(21,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(22,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(23,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(24,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(25,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(26,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(27,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(28,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(29,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(30,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(31,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(32,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(33,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(34,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(35,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(36,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(37,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(38,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(39,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(40,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(41,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(42,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(43,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(44,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+cc
+Dq
+PG
+Og
+lw
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(45,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+Og
+Og
+jX
+jX
+jX
+Og
+Og
+Og
+lw
+bu
+bu
+bu
+lw
+YR
+YR
+VU
+YR
+YR
+YR
+lb
+YR
+YR
+YR
+YR
+YR
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(46,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+LH
+UU
+wf
+hs
+hs
+hs
+wf
+cD
+Og
+lw
+bu
+bu
+bu
+lw
+YR
+Lb
+Hl
+uk
+Qo
+Wk
+gS
+Vr
+YR
+xW
+Yg
+Hd
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(47,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Bm
+mh
+hs
+hs
+hs
+hs
+hs
+xu
+Og
+lw
+bu
+bu
+bu
+lw
+Nk
+pD
+Hl
+uk
+Ha
+DD
+DD
+WR
+YR
+Hd
+DD
+YW
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(48,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+Og
+hs
+cD
+kD
+cD
+hs
+qi
+Og
+lw
+bu
+bu
+bu
+lw
+Nk
+hw
+Hl
+uk
+Ha
+DD
+DD
+ws
+YR
+kP
+DD
+DG
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(49,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+hs
+cD
+hs
+cD
+hs
+fG
+Og
+Og
+bu
+bu
+bu
+lw
+Nk
+Ms
+Hl
+uk
+Ha
+DD
+DD
+DD
+GY
+DD
+DD
+tf
+Eg
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(50,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+iN
+Og
+TP
+cD
+hs
+cD
+hs
+hs
+hs
+Zz
+bu
+bu
+bu
+lw
+YR
+Lb
+Hl
+uk
+XJ
+DD
+DD
+Js
+uJ
+Js
+DD
+ST
+Eg
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(51,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+LH
+mh
+hs
+cD
+kD
+cD
+hs
+hs
+hs
+Zz
+bu
+bu
+bu
+zH
+YR
+Hl
+Hl
+Uo
+YR
+Cs
+YR
+YR
+YR
+YR
+YR
+YR
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(52,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+LH
+Cq
+hs
+hs
+hs
+hs
+hs
+hs
+hs
+Zz
+bu
+bu
+bu
+aw
+jG
+Hl
+Hl
+Hl
+Vl
+RA
+yL
+KA
+Pd
+jA
+Ez
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(53,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+LH
+mh
+hs
+hs
+hs
+hs
+hs
+Ko
+Og
+Og
+bu
+bu
+bu
+wI
+YR
+Hl
+Hl
+Hl
+Gz
+oP
+aV
+aV
+Nl
+ya
+TE
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(54,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+iN
+Og
+mN
+LC
+Fp
+hs
+hs
+rS
+Og
+lw
+bu
+bu
+bu
+lw
+YR
+Lb
+Mf
+YR
+YR
+oP
+aV
+aV
+aV
+aV
+XW
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(55,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+NJ
+NJ
+NJ
+NJ
+NJ
+NJ
+Bz
+lw
+bu
+bu
+bu
+lw
+Nk
+Hl
+xD
+GN
+YR
+ew
+lc
+aV
+aV
+Qn
+DJ
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(56,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+ND
+NJ
+NJ
+NJ
+NJ
+Mw
+RQ
+lw
+bu
+bu
+bu
+lw
+Nk
+Hl
+cI
+ox
+YR
+XE
+ya
+aV
+aV
+ya
+cn
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(57,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+CW
+Cj
+Fz
+NJ
+Cj
+NJ
+Bz
+lw
+bu
+bu
+bu
+lw
+YR
+YR
+YR
+YR
+YR
+od
+JU
+Eu
+Eu
+lm
+rL
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(58,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Og
+Og
+Og
+wy
+Lh
+Og
+Og
+Og
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+YR
+YR
+YR
+zU
+zU
+YR
+YR
+YR
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(59,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+ft
+oj
+LF
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(60,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+Rs
+Kd
+vM
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(61,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+xk
+CX
+Yp
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(62,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+oV
+FT
+FT
+xl
+lw
+lw
+bu
+bu
+bu
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+Xy
+LS
+LS
+db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(63,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+TJ
+LT
+Jl
+LT
+ik
+fO
+fO
+vR
+vR
+ls
+Uf
+Uf
+Uf
+lw
+lw
+lw
+lw
+lw
+lw
+EV
+qM
+nB
+nB
+qM
+EV
+lw
+bu
+bu
+bu
+Ht
+ED
+CM
+TV
+Ay
+QQ
+uN
+fW
+Db
+Db
+Db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(64,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+CD
+GB
+Rb
+MV
+Ew
+fO
+fO
+BS
+gb
+nn
+gX
+Lk
+Uf
+lw
+lw
+EV
+qM
+qM
+EV
+EV
+yA
+tF
+Gd
+sY
+EV
+lw
+bu
+bu
+bu
+uN
+AI
+Rg
+Rg
+Rg
+AI
+II
+fW
+Oh
+lG
+Db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(65,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+CD
+oM
+hs
+hs
+ns
+fO
+fO
+yt
+gb
+Bo
+Bo
+Bo
+QS
+lw
+lw
+EV
+xN
+CO
+Ey
+Nb
+tF
+tF
+tF
+tF
+lo
+lw
+bu
+bu
+bu
+xf
+AI
+Cz
+Cz
+Cz
+AI
+ER
+Db
+Oh
+lG
+LR
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(66,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+CD
+ML
+rq
+MV
+Ew
+fO
+fO
+yt
+xb
+rg
+gX
+DU
+QS
+lw
+lw
+EV
+IX
+CO
+CO
+VV
+tF
+tF
+tF
+tF
+lo
+lw
+bu
+bu
+bu
+II
+AI
+Sk
+Sk
+Sk
+wi
+uN
+Db
+Oh
+lG
+Db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(67,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+Mu
+kh
+UD
+kh
+kS
+fO
+fO
+yt
+wA
+Uf
+Uf
+ls
+og
+lw
+lw
+EV
+TC
+qe
+CO
+he
+tF
+tF
+tF
+tF
+EV
+lw
+bu
+bu
+bu
+Ht
+yO
+Se
+ds
+AI
+VC
+II
+Db
+Oh
+lG
+jc
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(68,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+fO
+fO
+fO
+fO
+Xk
+lw
+lw
+lw
+lw
+lw
+EV
+Xt
+CO
+CO
+EV
+fN
+fN
+EV
+nB
+EV
+lw
+bu
+bu
+bu
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+fW
+Oh
+lG
+JT
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(69,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+TJ
+wR
+wR
+Jl
+ik
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+Xk
+QS
+vR
+We
+lw
+EV
+JA
+CO
+CO
+VZ
+kr
+Tw
+kr
+kr
+EV
+lw
+bu
+bu
+bu
+lw
+Ht
+xg
+yu
+xg
+kq
+Ht
+zO
+Oh
+lG
+eV
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(70,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+CD
+Bo
+Bo
+Bo
+FV
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+fO
+WF
+HJ
+mf
+lw
+EV
+eo
+bq
+CO
+Fq
+kr
+kr
+kr
+kr
+EV
+lw
+bu
+bu
+bu
+lw
+ZX
+Hh
+AP
+AP
+AP
+rV
+Db
+Oh
+lG
+Vy
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(71,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+CD
+Bo
+Bo
+Bo
+FV
+Xk
+lw
+fO
+fO
+fO
+fO
+fO
+fO
+sh
+We
+vR
+lw
+EV
+EV
+EV
+EV
+EV
+CJ
+kr
+kr
+Sh
+EV
+EV
+bu
+bu
+bu
+lw
+eB
+Hh
+FH
+Cz
+Fl
+kz
+Db
+Oh
+lG
+IC
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(72,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+ok
+Bo
+Bo
+Bo
+IT
+fO
+fO
+fO
+fO
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+EV
+ll
+wQ
+PB
+EV
+EV
+Fq
+EV
+mJ
+EV
+EV
+bu
+bu
+bu
+lw
+eB
+Hh
+FH
+GO
+Fl
+Cn
+Db
+Oh
+lG
+LR
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(73,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+ok
+Bo
+Bo
+Bo
+Io
+Xk
+fO
+fO
+fO
+fO
+fO
+lw
+ls
+Uf
+vR
+Uf
+lw
+EV
+OV
+PB
+PB
+nL
+Xc
+PB
+PB
+PB
+PB
+EV
+bu
+bu
+bu
+lw
+eB
+Hh
+FH
+Cz
+Fl
+ZX
+fW
+Oh
+lG
+Db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(74,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+CD
+Bo
+Bo
+Bo
+Io
+lw
+OY
+fO
+jJ
+fO
+Ci
+lw
+Uf
+QZ
+zK
+Uf
+lw
+EV
+NZ
+aI
+PB
+Fq
+PB
+PB
+PB
+PB
+fx
+EV
+bu
+bu
+bu
+lw
+kz
+Hh
+AP
+AP
+AP
+yF
+fW
+VD
+Db
+Db
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(75,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+ok
+Bo
+Bo
+Bo
+Mn
+lw
+OY
+fO
+fL
+fO
+Ci
+fO
+wA
+Bo
+hT
+Uf
+lw
+EV
+EV
+EV
+EV
+EV
+kr
+kr
+kr
+tb
+Ty
+EV
+bu
+bu
+bu
+lw
+Ht
+xy
+fu
+IM
+XH
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(76,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+Mu
+Lm
+UD
+Lm
+kS
+lw
+OY
+fO
+fO
+fO
+Ci
+Xk
+Uf
+Bo
+gX
+ls
+lw
+lw
+lw
+lw
+EV
+zh
+kr
+kr
+kr
+EV
+EV
+EV
+bu
+bu
+bu
+lw
+Ht
+Ht
+Ht
+Ht
+Ht
+Ht
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(77,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+fO
+fO
+fO
+fO
+fO
+lw
+Uf
+Sm
+Pi
+Uf
+lw
+lw
+lw
+lw
+EV
+Ok
+Jq
+zd
+Il
+EV
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(78,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+Uf
+mf
+ls
+vR
+lw
+lw
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+vR
+Uf
+Uf
+vR
+lw
+lw
+lw
+lw
+EV
+EV
+EV
+EV
+EV
+EV
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(79,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+Uf
+gb
+fB
+vR
+lw
+lw
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+lw
+QN
+QN
+QN
+QN
+QN
+QN
+QN
+QN
+QN
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(80,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+Uf
+Bo
+Lp
+yt
+Xk
+lw
+lw
+lw
+fO
+fO
+lw
+lw
+lw
+lw
+lw
+LD
+LD
+LD
+LD
+LD
+lg
+kL
+Cw
+lg
+fQ
+LD
+LD
+lw
+lw
+bu
+bu
+bu
+lw
+QN
+aF
+ZS
+oU
+QN
+wG
+wG
+wG
+tz
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(81,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+ls
+nr
+Bo
+eO
+fO
+fO
+fO
+fO
+fO
+fO
+lw
+lw
+lw
+lw
+fQ
+LD
+tF
+dL
+kW
+dL
+tF
+tF
+tF
+tF
+dL
+Fe
+lg
+lw
+lw
+bu
+bu
+bu
+lw
+QN
+rX
+JN
+BK
+QN
+JN
+GW
+JN
+JN
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(82,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+ls
+Bk
+Or
+yt
+lw
+lw
+lw
+lw
+fO
+fO
+Xk
+lw
+lw
+lw
+lg
+Fe
+tF
+aV
+Yy
+tF
+HO
+PY
+HO
+HO
+tF
+tF
+LD
+fQ
+lw
+bu
+bu
+bu
+lw
+sd
+Of
+JN
+fl
+OD
+JN
+Nz
+JN
+wG
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(83,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+vR
+Uf
+ze
+OB
+lw
+lw
+Uf
+gu
+wA
+wA
+mf
+Uf
+lw
+lw
+lg
+Fe
+aV
+aV
+Ib
+tF
+un
+wd
+wd
+ev
+mg
+mg
+mg
+FA
+bu
+bu
+bu
+bu
+lw
+sd
+tz
+JN
+JK
+QN
+VO
+RH
+JN
+wG
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(84,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+yt
+Xg
+zF
+Bo
+US
+MT
+Xg
+yt
+lw
+LD
+gg
+aV
+aV
+WK
+tF
+mg
+mg
+mg
+mg
+mg
+mg
+es
+lg
+bu
+bu
+bu
+bu
+bu
+Fk
+iO
+JN
+JN
+JN
+JN
+JN
+JN
+tz
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(85,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+fR
+SW
+Yw
+Bo
+Bo
+nc
+gX
+kA
+lw
+lg
+Fe
+aV
+aV
+Ib
+tF
+HO
+PY
+PY
+HO
+mg
+mg
+mg
+FA
+bu
+bu
+bu
+bu
+bu
+QN
+QN
+QN
+Nj
+Nj
+Nj
+QN
+QN
+QN
+QN
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(86,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+kA
+SW
+iM
+Px
+Px
+pk
+gX
+fR
+lw
+lg
+Fe
+tF
+aV
+Ib
+tF
+un
+wd
+wd
+wd
+tF
+tF
+fQ
+LD
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(87,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+yt
+Xg
+Nd
+pi
+pi
+Qu
+Xg
+yt
+lw
+LD
+LD
+LD
+YU
+Pu
+Qp
+tF
+tF
+tF
+tF
+Qp
+Fe
+lg
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(88,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+Uf
+mf
+Uf
+Uf
+gu
+Uf
+lw
+lw
+lw
+LD
+LD
+LD
+LD
+LD
+lg
+lg
+lg
+lg
+LD
+LD
+LD
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(89,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+bu
+bu
+bu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(90,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+OI
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(91,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(92,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(93,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(94,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(95,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(96,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(97,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(98,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(99,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}
+(100,1,1) = {"
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+"}

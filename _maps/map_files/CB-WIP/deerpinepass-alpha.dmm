@@ -3692,9 +3692,6 @@
 	name = "Sakura Blossom";
 	desc = "A japanese cherry blossom tree, an absolute treasure in the wasteland."
 	},
-/obj/structure/wood_counter{
-	pixel_y = 4
-	},
 /turf/open/floor/wood_mosaic,
 /area/f13/wasteland)
 "AZ" = (
@@ -6118,10 +6115,6 @@
 	footstep = "dirt";
 	name = "rocky dirt"
 	},
-/area/f13/wasteland)
-"Rj" = (
-/obj/structure/table/wood/settler,
-/turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "Rl" = (
 /obj/structure/table,
@@ -23766,7 +23759,7 @@ bN
 bN
 YB
 gz
-Rj
+qw
 bN
 bN
 gz
@@ -50158,7 +50151,7 @@ bN
 bN
 YB
 Ky
-Rj
+qw
 ko
 Is
 Ax
@@ -51436,8 +51429,8 @@ pq
 bN
 Ky
 YD
-Rj
-Rj
+qw
+qw
 Ky
 jF
 bN
