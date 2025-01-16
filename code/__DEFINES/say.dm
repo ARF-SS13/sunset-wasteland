@@ -94,40 +94,64 @@
 	.My Post Perspective: Ask!"
 
 #define BACKGROUND_INFO_NOTE_TEMPLATE "Background Info Template\n\
-	Keep in mind that you do not need to have answers for all of these questions from the word go, but having answers for some of them should greatly improve your playing experience due to it solidifying your character more robustly in a very fluid world.\n\
-	BiG FeNnys wIdE waRning: So, I'm passing this information to you as a player on my own server with thousands of hours roleplaying here.  While I understand that shy people do absolutely exist and that playing one may be something that you want to do (or maybe you just are shy and your character is as well by extension) understand that the more of these answers you can define the better off you're going to be.  Being shy here is much like being shy in the real world, you often end up spending a lot of time by yourself.  If that is not your long term goal then you should, by all means, do what you can to fight back against your shyness.  Because I can say with all certainty that if its people you want to hang out with standing alone on top of a building wishing that you were talking to someone is about the slowest way to find someone to actually talk to.\n\
 	\n\
-	1. What is your characters background?  What setting are they from?  How did they get to the Texarkana Area?  What do they think of the place they've found themselves in?\n\
+	Remember there are no right or wrong answers when it comes to these questions, you aren’t going to fuck up.  These are to help improve the overall standard of roleplay for a new character and to help you get into the headspace of the character you are playing.  Feel free to say ‘i’m good’ on some of the answers if you don’t feel they fit.  Heck, you can even come back later after playing some to adjust it if something changes in your mind.  The bare minimum is only 40 characters per question.\n\
 	\n\
-	Answer: \n\
+	\n\  That is quite literally just one relatively short sentence.  The previous sentence was nearly 60, if that helps.\n\
 	\n\
+	If you are having trouble and need help feel more than free to make an ahelp or a ticket in the discord!  We WANT you to get through this, we WANT you be approved!  Hell, jabber over OOC, we want to hear your voice!\n\
 	\n\
-	2. How does your character show themselves to others. Are they straight forward, whimsical, snarky, etc.  Do they have any obvious goals?  Any hidden goals?\n\
+	1. What do you look like? This doesn’t need to be a full flavor text character description.  Just a snapshot of how you view them. A quick snapshot of them in any given moment.\n\
 	\n\
-	Answer: \n\
+	2. Where do you hail from?  Village? City? Which Nation? Universe and setting? Did you grow up there, move around? How did it affect you?\n\
 	\n\
+	3. Who are your family?  It’s something of a cliché for every character to be an orphan, so think about the alternatives. If your parents and siblings are still alive, what are they doing, and how do you get on with them?\n\
 	\n\
-	3. How do they feel about strangers?  How do they feel about the different towns in the area?  How do they show friendship or dislike?\n\
+	4. How did you enter into the work that your character does daily? Was it a profession passed down in your family for generations? Did you strike out on your own or perhaps fate forced your hand, and you had no choice?\n\
 	\n\
-	Answer: \n\
+	5. What is the most important event of your life so far? It’s possible to go a bit overboard with this. A brand new character probably hasn’t slain a thousand monsters. But there must have been something interesting to have happened to you.\n\
 	\n\
+	6. What is your morality? It's a sloppy system but think of D&D's alignment system.  Are you lawful good?  Neutral evil?\n\
 	\n\
-	4. What motivates your character to take the actions that they do.  Why do you, or don't you, go out and explore the wasteland?  Why do you, or don't you, hang out with large groups of other people?\n\
+	7. What religion or life philosophies, if any, does your character follow? The worlds a wild place, many characters find peace in their religion or philosophical views of a land they can sometimes barely understand.  Do you?  Do you view others view in any particular way?\n\
 	\n\
-	Answer: \n\
+	8. What is your biggest flaw? One of the most important questions on this list.  Characters without flaws are not characters.  Even Superman has a weakness, and it helps to drive his stories.  We’re not saying make the most imperfect soul imaginable but people have problems.  You should as well.\n\
 	\n\
+	9. What is your greatest fear? Another very important question. It could be a well-known phobia like heights or spiders, or it could be much more unusual. Talk to the DM if you want to tie it to something in the campaign. These don’t have to have mechanical consequences, but they should be something you react to via roleplay.  Like a hatred for bugs or a even something as light as getting your hair wet.\n\
 	\n\
-	5. How does your character handle stress?  Does your character have any particularly noticeable ticks?  An example would be a twitching eyebrow when angry, or lashing their tail like a cat when upset.  Or maybe even just wagging their tail when happy.  Stuff like that.\n\
+	10. Who/what is your greatest foe? Perhaps you’re too carefree to make enemies, but most people have conflict with others.  Be it verbal or otherwise.  This can range from people you just don’t like based off their viewpoints to entire species of critters out in the valley because one of them ate your dog.  Be creative, but not needlessly vindictive.\n\
 	\n\
-	Answer: \n\
+	11. Are you a member of any groups? Do you have any friends you run with regularly?  Folks you like to hang out with.  Surely you have a friend or two, right?  You’ve totally touched grass. :3\n\
 	\n\
+	12. How do your ability scores define your personality? We have our own sets of stats but they’re not hard to understand.  Remember that they are entirely roleplay focused, so, how do your stats- high or low, effect your characters perspectives of the world or how they approach tasks.\n\
 	\n\
-	6. What in life matters the absolute most to your character.  Be that possessions, or people, or whatever.  What is it that they just can't either get enough of or love with all of their being.  What do they hate with all of their being as well.\n\
+	13. What motivates you? In particular, why do you go on adventures? Money? Stories? Proving yourself? Protecting others? Your ideals or morals?\n\
 	\n\
-	Answer: \n\
+	14. What do you most despise in others? Selfishness? Impulsiveness? Hypocrisy? Sloth? Sparkledog genetics?\n\
 	\n\
-	\n\ "
+	15. What is your greatest ambition? 'To defeat Lu Bu, to plumb the very depths of of the ruins themselves!' What are your goals, what are your dreams.  What do you reach for?  In an empty void of people with just yourself at the helm then where are you going?\n\
+	\n\
+	16. What’s the worst thing your character has ever done? It doesn’t have to be absolutely horrid, dark, or edgy, but what is the most traditionally morally awful (to yourself) thing that the character has done. How do they feel about it?  Was it justified?  Would they change it or even do it again?\n\
+	\n\
+	17. What is your greatest secret? Possibly the same as number 16, above. Consider who knows this secret; and how it coming out to the public might affect people’s perspective on themselves or their community.\n\
+	\n\
+	18. What is your character’s voice? Alec Guinness once said that he didn’t truly inhabit a character until he knew how they walked.  We have tools for setting up noises when you speak and coloring your runechat how you like.  These things help give flavor to your character but also consider how they speak.  Do they have mannerisms that they use regularly?  Do they avoid certain words that are common? \n\
+	\n\
+	19. What do you think of your fellow townsfolk on a general basis? The other people of the town, even if you haven’t met them, probably live rent free in your head.  How do you feel about them as strangers?  You know, super roughly.\n\
+	\n\
+	20. How does your character relax? Possibly a bit of an odd question, but if your character is going to be more than a horny homunculi, it’s important to think about what they’re like outside bedrooms! What are their tastes, hobbies, interests?Rake spends her relaxing time mostly curled up in tighter spaces if she's tired.  If not tired and trying to relax she's happy to hang out at the bar and get unabashedly shit faced."
 
+
+
+
+
+
+
+
+
+
+
+	
 
 // Is something in the IC chat filter? This is config dependent.
 #define CHAT_FILTER_CHECK(T) (config.ic_filter_regex && findtext(T, config.ic_filter_regex))
