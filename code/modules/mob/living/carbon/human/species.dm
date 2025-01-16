@@ -1850,6 +1850,19 @@ GLOBAL_LIST_EMPTY(roundstart_race_names)
 		if (!HAS_TRAIT(target, TRAIT_PERMABONER))
 			stop_wagging_tail(target)
 		return FALSE
+//tail pulling up next
+	else if(aim_for_groin && (target == user || target.lying || same_dir) && (target_on_help || target_restrained || target_aiming_for_groin))
+		playsound(target.loc, 'sound/weapons/punchmiss.ogg', 50, 1, -1)
+		user.visible_message(
+						span_notice("[user] gives [user.p_their()] tail a tug!"),
+						span_notice("You give your own tail a tug!"),
+					)
+		user.do_attack_animation(target, ATTACK_EFFECT_FACE_SLAP)
+		user.adjustStaminaLossBuffered(3)
+		if (!HAS_TRAIT(target, TRAIT_PERMABONER))
+			stop_wagging_tail(target)
+		return FALSE
+//ass slapping up next
 	else if(aim_for_groin && (target == user || target.lying || same_dir) && (target_on_help || target_restrained || target_aiming_for_groin))
 		if(target.client?.prefs.cit_toggles & NO_ASS_SLAP)
 			to_chat(user,"A force stays your hand, preventing you from slapping \the [target]'s ass!")
