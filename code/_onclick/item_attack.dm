@@ -124,9 +124,9 @@
 	//var/smutant = force*0.25 //Not using this for FEV mutated as this could let you do a lot of trolling.
 	//var/ghoulmelee = force*0.25 //negative trait, this will cut 25% of the damage done by melee
 
-	//var/regular = force*(user.special_s/100)//SPECIAL integration
+	var/regular = force*(user.special_s/100)//SPECIAL integration
 
-	//force += regular//SPECIAL integration
+	force += regular//SPECIAL integration
 
 	var/force_modifier = 0
 	if(force >= 5)

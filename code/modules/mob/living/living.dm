@@ -18,8 +18,10 @@
 	for(var/datum/atom_hud/data/diagnostic/diag_hud in GLOB.huds)
 		diag_hud.add_to_hud(src)
 	faction += "[REF(src)]"
+	init_SAS()
 	GLOB.mob_living_list += src
 	clienthud.add_hud_to(src)
+
 	if(coolshadow)
 		add_filter("cool_shadow",10, list(
 			"type"="drop_shadow",
@@ -67,6 +69,7 @@
 		ranged_ability.remove_ranged_ability(src)
 	if(buckled)
 		buckled.unbuckle_mob(src,force=1)
+	QDEL_NULL(SAS)
 
 	remove_from_all_data_huds()
 	GLOB.mob_living_list -= src

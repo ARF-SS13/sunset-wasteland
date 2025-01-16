@@ -31,3 +31,4 @@
 	hud_client_check()
 
 	SSstatpanels.collect_horny_demographic(src)
+	SSsas.

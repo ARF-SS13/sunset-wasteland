@@ -38,6 +38,7 @@
 	dextrous_hud_type = /datum/hud/dextrous/drone
 	//Need this to have the hands appear on the HUD
 	held_items = list(null, null)
+	sas_key = null // prevent sassery
 	///The pokemon-types that this mob has. Used to auto-generate moves(abilities) and some other attributes.
 	var/list/p_types = list()
 	///Moves that aren't automatically granted based on their type. Will be assigned during Initialize()

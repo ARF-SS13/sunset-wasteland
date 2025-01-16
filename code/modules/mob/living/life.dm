@@ -7,11 +7,11 @@
 
 /mob/living/proc/Life(seconds, times_fired)
 
-	//if(!SPECIAL_SET)
-	//	src.maxHealth += (src.special_e*3)//SPECIAL Integration
-	//	src.health += (src.special_e*3)//SPECIAL Integration
-	//	update_special_speed((5-src.special_a)/20)//SPECIAL Integration
-	//	SPECIAL_SET = TRUE
+	if(!SPECIAL_SET)
+		src.maxHealth += (src.special_e*3)//SPECIAL Integration
+		src.health += (src.special_e*3)//SPECIAL Integration
+		update_special_speed((5-src.special_a)/20)//SPECIAL Integration
+		SPECIAL_SET = FALSE
 	
 	//SHOULD_NOT_SLEEP(TRUE)
 	if(mob_transforming)

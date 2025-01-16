@@ -179,3 +179,4 @@
 	var/icon_resting
 
 	var/coolshadow = TRUE
+

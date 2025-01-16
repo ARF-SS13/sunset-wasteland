@@ -1,290 +1,51 @@
-#define EMOTE_SPECIAL_STR "Brawn"
-#define EMOTE_SPECIAL_PER "Awareness"
-#define EMOTE_SPECIAL_END "Toughness"
-#define EMOTE_SPECIAL_CHA "Moxie"
-#define EMOTE_SPECIAL_INT "Smarts"
-#define EMOTE_SPECIAL_AGI "Deftness"
-#define EMOTE_SPECIAL_LCK "Fate"
-#define EMOTE_SPECIAL_GEN "Flat Roll"
-#define EMOTE_SPECIAL_SUF "Crit"
 
 GLOBAL_LIST_INIT(special_skill_list, list(
-	EMOTE_SPECIAL_STR,
-	EMOTE_SPECIAL_PER,
-	EMOTE_SPECIAL_END,
-	EMOTE_SPECIAL_CHA,
-	EMOTE_SPECIAL_INT,
-	EMOTE_SPECIAL_AGI,
-	EMOTE_SPECIAL_LCK,
-	EMOTE_SPECIAL_GEN))
+	STAT_STR,
+	STAT_PER,
+	STAT_END,
+	STAT_CHA,
+	STAT_INT,
+	STAT_AGI,
+	STAT_LCK,
+	STAT_GEN))
 
-GLOBAL_LIST_INIT(special_triggers, list(
-	EMOTE_SPECIAL_STR = list(
-		"b",
-		"brn",
-		"brawn",
-	),
-	EMOTE_SPECIAL_PER = list(
-		"a",
-		"aware",
-		"awareness",
-		),
-	EMOTE_SPECIAL_END = list(
-		"tough",
-		"tuff", 
-		"end",
-		"toughness",
-		),
-	EMOTE_SPECIAL_CHA = list(
-		"mox",
-		"moxie",
-		"Cha",
-		),
-	EMOTE_SPECIAL_INT = list(
-		"int",
-		"i",
-		"intelligence",
-		"inteligence",
-		"intelligance",
-		"inteligance",
-		"intel",
-		"intell",
-		"intelect",
-		"intellect",
-		"smart",
-		"smartness",
-		"nerd",
-		"nerdiness",
-		"dork",
-		"dorkiness",
-		"dweeb",
-		"dweebishness",
-		"smarts",
-		),
-	EMOTE_SPECIAL_AGI = list(
-		"agi",
-		"a",
-		"agility",
-		"agillity",
-		"quick",
-		"quickness",
-		"fast",
-		"fastness",
-		"dex",
-		"speed",
-		"speediness",
-		"initiative",
-		"athleticism",
-		"acrobatics",
-		"escape",
-		"dodge",
-		"evade",
-		"evasion",
-		"cat",
-		"deft",
-		"deftness",
-		),
-	EMOTE_SPECIAL_LCK = list(
-		"l",
-		"lck",
-		"luck",
-		"lick",
-		"lock",
-		"lunk",
-		"link",
-		"chance",
-		"fortune",
-		"dice",
-		"luk",
-		"luc",
-		"fat",
-		"fate",
-		),
-	EMOTE_SPECIAL_GEN = list(
-		"x",
-		"non",
-		"none",
-		"generic",
-		"something",
-		"else",
-		"smth",
-		"?",
-		"rand",
-		"huh",
-		"stuff",
-		"roll")))
-
-GLOBAL_LIST_INIT(special_phrases, list(
-	EMOTE_SPECIAL_STR = list(
-		"initial" = list(
-			"tests their brawn...",
-			"flexes their arm(s)...",
-			"prepares to lift...",
-			"puts their back into it..."),
-		"success" = list(
-			"is strong!",
-			"is beefy!",
-			"has some serious guns!",
-			"had some strength behind it!"),
-		"failure" = list(
-			"was too weak.",
-			"was a little wet noodle.",
-			"would loose an arm wrestling match with a mouse.",
-			"has some serious atrophy. it's a wonder they can move at all.")),
-	EMOTE_SPECIAL_PER = list(
-		"initial" = list(
-			"takes a good, long look...",
-			"squints...",
-			"looks around...",
-			"focuses in..."),
-		"success" = list(
-			"was perceptive!",
-			"noticed things!",
-			"has eyes like a hawk!",
-			"could find Doc Mitchell's keys!",
-			"noticed whatever they were trying to see!"),
-		"failure" = list(
-			"was totally oblivious.",
-			"forgot their glasses.",
-			"didn't see anything.")),
-	EMOTE_SPECIAL_END = list(
-		"initial" = list(
-			"tests their toughness...",
-			"braces themself..."),
-		"success" = list(
-			"was tough!",
-			"was one tough cookie!",
-			"doesn't even flinch!",
-			"is solid as an oak!",
-			"endured!"),
-		"failure" = list(
-			"is a floppy lil' noodle.",
-			"is made of paper.",
-			"would be torn to shreds by a light breeze.",
-			"crumpled up and blew away.")),
-	EMOTE_SPECIAL_CHA = list(
-		"initial" = list(
-			"starts to be charismatic...",
-			"puts on the charm..."),
-		"success" = list(
-			"was charismatic!",
-			"is an absolute charmer!",
-			"was good and charming!"),
-		"failure" = list(
-			"was totally uncharismatic.",
-			"isn't fooling anyone.",
-			"put their foot in their mouth.",
-			"could hear a pin drop.",
-			"miiiiight have some frontal lobe damage.",
-			"had their charms fall flat.")),
-	EMOTE_SPECIAL_INT = list(
-		"initial" = list(
-			"thinks hard...",
-			"ponders hard...",
-			"takes a moment to think...",
-			"furrows their brow..."),
-		"success" = list(
-			"was clever!",
-			"is a genius!",
-			"has a mind sharp as a whip!",
-			"had a thought!"),
-		"failure" = list(
-			"was dumb as a doornail.",
-			"burned their last braincell years ago.",
-			"is running low on braincells.",
-			"was dense as a brick.")),
-	EMOTE_SPECIAL_AGI = list(
-		"initial" = list(
-			"tries to get agile...",
-			"prepares their moves...",
-			"starts to get limber..."),
-		"success" = list(
-			"was very flexible!",
-			"had some excellent footwork!",
-			"was in perfect control!",
-			"was agile as a cat!",
-			"was agile as a fox!"),
-		"failure" = list(
-			"fell flat on their face.",
-			"fell flat on their back.",
-			"triped over themself.",
-			"has two left feet.",
-			"was clumsy as a cat.",
-			"was clumsy as a fox.")),
-	EMOTE_SPECIAL_LCK = list(
-		"initial" = list(
-			"tries their luck...",
-			"takes a chance...",
-			"puts it all on red..."),
-		"success" = list(
-			"lucked out!",
-			"was the luckiest son-of-a-gun in the wasteland!",
-			"could make a bullet turn right around and climb back into the gun!",
-			"got lucky!"),
-		"failure" = list(
-			"was unlucky.",
-			"realized their game was rigged from the start.",
-			"showed that the house always wins.")),
-	EMOTE_SPECIAL_GEN = list(
-		"initial" = list(
-			"tests their skills...",
-			"tries their skills...",
-			"attempts to do a thing...",
-			"puts their skills to the test..."),
-		"success" = list(
-			"succeeded!",
-			"did it!"),
-		"failure" = list(
-			"was really bad at whatever they did.",
-			"just really sucked.",
-			"messed up real bad.")),
-	EMOTE_SPECIAL_SUF = list(
-		"initial" = list(
-			"shouldnt see this lol"),
-		"success" = list(
-			"Ring-a-ding baby!",
-			"Wow!"),
-		"failure" = list(
-			"How could someone mess up so badly?",
-			"The game was rigged from the start."))))
-
-/mob/living/verb/emote_special_str()
+/mob/living/verb/STAT_str()
 	set name = "Roll Brawn"
 	set desc = "Roll for bicep circumfrence."
 	set category = "Roleplaying"
 	emote("special_strength")
 
-/mob/living/verb/emote_special_per()
+/mob/living/verb/STAT_per()
 	set name = "Roll Awareness"
 	set desc = "Roll for eyeball circumfrence."
 	set category = "Roleplaying"
 	emote("special_perception")
 
-/mob/living/verb/emote_special_end()
+/mob/living/verb/STAT_end()
 	set name = "Roll Toughness"
 	set desc = "Roll for heart circumfrence."
 	set category = "Roleplaying"
 	emote("special_endurance")
 
-/mob/living/verb/emote_special_cha()
+/mob/living/verb/STAT_cha()
 	set name = "Roll Moxie"
 	set desc = "Roll for beauty circumfrence."
 	set category = "Roleplaying"
 	emote("special_charisma")
 
-/mob/living/verb/emote_special_int()
+/mob/living/verb/STAT_int()
 	set name = "Roll Smarts"
 	set desc = "Roll for brain circumfrence."
 	set category = "Roleplaying"
 	emote("special_intelligence")
 
-/mob/living/verb/emote_special_agi()
+/mob/living/verb/STAT_agi()
 	set name = "Roll Deftness"
 	set desc = "Roll for wiggly circumfrence."
 	set category = "Roleplaying"
 	emote("special_agility")
 
-/mob/living/verb/emote_special_luc()
+/mob/living/verb/STAT_luc()
 	set name = "Roll Fate"
 	set desc = "Roll for some sort of circumfrence."
 	set category = "Roleplaying"
@@ -302,31 +63,31 @@ GLOBAL_LIST_INIT(special_phrases, list(
 
 /datum/emote/living/special/s
 	key = "special_strength"
-	special_override = EMOTE_SPECIAL_STR
+	special_override = STAT_STR
 
 /datum/emote/living/special/p
 	key = "special_perception"
-	special_override = EMOTE_SPECIAL_PER
+	special_override = STAT_PER
 
 /datum/emote/living/special/e
 	key = "special_endurance"
-	special_override = EMOTE_SPECIAL_END
+	special_override = STAT_END
 
 /datum/emote/living/special/c
 	key = "special_charisma"
-	special_override = EMOTE_SPECIAL_CHA
+	special_override = STAT_CHA
 
 /datum/emote/living/special/i
 	key = "special_intelligence"
-	special_override = EMOTE_SPECIAL_INT
+	special_override = STAT_INT
 
 /datum/emote/living/special/a
 	key = "special_agility"
-	special_override = EMOTE_SPECIAL_AGI
+	special_override = STAT_AGI
 
 /datum/emote/living/special/l
 	key = "special_luck"
-	special_override = EMOTE_SPECIAL_LCK
+	special_override = STAT_LCK
 
 /datum/emote/living/special/run_emote(mob/user, params, type_override, intentional = FALSE)
 	if(!can_run_emote(user, TRUE, intentional))
@@ -338,54 +99,28 @@ GLOBAL_LIST_INIT(special_phrases, list(
 		to_chat(user, "You cannot send IC messages (muted).")
 		return FALSE
 
-	if(isnull(user.special_a))
-		to_chat(user, span_phobia("You arent special."))
-		to_chat(user, span_notice("Mainly because you're playing a mob withough any special skills. This is probably a bug~"))
-		return FALSE
-
-	var/special_noun = null
 	var/special_phrase_input = special_override ? lowertext(special_override) : lowertext(params)
+	var/datum/statskill/SK = SSsas.get_stat_by_trigger(special_phrase_input)
 
-	for(var/which_special in GLOB.special_skill_list)
-		/// if the thing we said after the emote is in one of these lists, pick the corresponding key
-		if(special_phrase_input in GLOB.special_triggers[which_special])
-			special_noun = which_special
-
-	if(!(special_noun in GLOB.special_skill_list) || !special_noun)
-		to_chat(user, span_alert("That's not a valid SPECIAL stat!"))
+	if(!SK)
+		to_chat(user, span_alert("That's not a valid stat!"))
 		to_chat(user, span_notice("To use this emote, type '*special' followed by a SPECIAL stat. For instance, '*special luck' will do a (luck*10)% roll and say if you passed or not."))
-		var/valid_specials
-		for(var/word in GLOB.special_triggers)
-			valid_specials += "[GLOB.special_triggers[word][1]], "
-			valid_specials += "[GLOB.special_triggers[word][2]]. "
+		var/valid_specials = SSsas.get_stat_triggers()
 		to_chat(user, span_notice("Some of the valid SPECIAL keywords are:[valid_specials]."))
 		return
+	
+	var/init_message = SK.get_rollmote_initial_msg(user)
+	var/datum/roll_return/RT = SSsas.do_roll(user, SK.key, "1d20", 15)
+	var/modshow = ""
+	if(modshow > 0)
+		modshow = "+[RT.mods]"
+	if(modshow < 0)
+		modshow = "[RT.mods]"
+	var/message_first = span_notice("\[[SK.displayname], 1d20+[RT.base][modshow] DC 15] <b>[user]</b> [RT.pre_msg].")	// [Luck, 100%] User tests their Luck.
+	var/turf/T = get_turf(user)
 
-	var/special_skill = null
-	switch(special_noun)
-		if(EMOTE_SPECIAL_STR)
-			special_skill = user.special_s
-		if(EMOTE_SPECIAL_PER)
-			special_skill = user.special_p
-		if(EMOTE_SPECIAL_END)
-			special_skill = user.special_e
-		if(EMOTE_SPECIAL_CHA)
-			special_skill = user.special_c
-		if(EMOTE_SPECIAL_INT)
-			special_skill = user.special_i
-		if(EMOTE_SPECIAL_AGI)
-			special_skill = user.special_a
-		if(EMOTE_SPECIAL_LCK)
-			special_skill = user.special_l
-		if(EMOTE_SPECIAL_GEN) // generic random 50% chance
-			special_skill = 5
-
-	var/first_phrase = pick(GLOB.special_phrases[special_noun]["initial"])
-	var/message_first = span_notice("\[[special_noun], [special_skill]0%] <b>[user]</b> [first_phrase].")	// [Luck, 100%] User tests their Luck.
-
-	user.visible_message(
+	T.visible_message(
 		message = message_first,
-		self_message = message_first,
 		blind_message = message_first)
 	user.emote_for_ghost_sight(message_first)
 
@@ -397,26 +132,20 @@ GLOBAL_LIST_INIT(special_phrases, list(
 		if(!can_run_emote(user, TRUE,intentional))
 			return
 
-		var/message_second
-		if(prob(special_skill * 10))
-			var/success_phrase = pick(GLOB.special_phrases[special_noun]["success"])
-			if(prob(5)) // crit success!
-				success_phrase += " [pick(GLOB.special_phrases[EMOTE_SPECIAL_SUF]["success"])]"
-			message_second = span_green("\[Success\] <b>[user]</b> [success_phrase]") // [Success] User is pretty lucky!
+		var/message_second = RT.msg
+		if(RT.passed)
+			message_second = span_green(message_second)
 		else
-			var/fail_phrase = pick(GLOB.special_phrases[special_noun]["failure"])
-			if(prob(5)) // crit fail!
-				fail_phrase += " [pick(GLOB.special_phrases[EMOTE_SPECIAL_SUF]["failure"])]"
-			message_second = span_red("\[Failure\] <b>[user]</b> [fail_phrase]") // [Failure} User isn't very lucky...
+			message_second = span_red(span_green(message_second))
 
-		user.visible_message(
+		T.visible_message(
 			message = message_second,
-			self_message = message_second,
 			blind_message = message_second)
 		user.emote_for_ghost_sight(message_second)
 
 
-
+////////////////////////////////////////////////////
+////////////////////////////////////////////////////
 /datum/emote/living/rollfor
 	key = "rollfor"
 
@@ -438,47 +167,32 @@ GLOBAL_LIST_INIT(special_phrases, list(
 	var/paramlist = splittext(params, " ")
 	var/skill_name
 
-	for(var/which_special in GLOB.special_skill_list)
-		/// if the thing we said after the emote is in one of these lists, pick the corresponding key
-		if(paramlist[1] in GLOB.special_triggers[which_special])
-			skill_name = which_special
+	var/special_phrase_input = LAZYACCESS(paramlist, 1)
+	var/datum/statskill/SK = SSsas.get_stat_by_trigger(special_phrase_input)
 
-	if(!(skill_name in GLOB.special_skill_list) || !skill_name)
-		to_chat(user, span_alert("That's not a valid SPECIAL stat!"))
+	if(!SK)
+		to_chat(user, span_alert("That's not a valid stat!"))
 		to_chat(user, span_notice("To use this emote, type '*special' followed by a SPECIAL stat. For instance, '*special luck' will do a (luck*10)% roll and say if you passed or not."))
-		var/valid_specials
-		for(var/word in GLOB.special_triggers)
-			valid_specials += "[GLOB.special_triggers[word][1]], "
-			valid_specials += "[GLOB.special_triggers[word][2]]. "
-		to_chat(user, span_notice("Some of the valid SPECIAL keywords are:[valid_specials]."))
+		var/valid_specials = SSsas.get_stat_triggers()
+		to_chat(user, span_notice("Some of the valid SPECIAL keywords are:\n[valid_specials]."))
 		return
-
-	var/skill = null
-	switch(skill_name)
-		if(EMOTE_SPECIAL_STR)
-			skill = user.special_s
-		if(EMOTE_SPECIAL_PER)
-			skill = user.special_p
-		if(EMOTE_SPECIAL_END)
-			skill = user.special_e
-		if(EMOTE_SPECIAL_CHA)
-			skill = user.special_c
-		if(EMOTE_SPECIAL_INT)
-			skill = user.special_i
-		if(EMOTE_SPECIAL_AGI)
-			skill = user.special_a
-		if(EMOTE_SPECIAL_LCK)
-			skill = user.special_l
-		if(EMOTE_SPECIAL_GEN) // flat roll
-			skill = 0
 
 	var/dice = paramlist[2]
-	if(!roll(dice))
+	if(isnull(roll(dice)))
 		return
 
-	var/first_phrase = pick(GLOB.special_phrases[skill_name]["initial"])
-	var/message_first = span_notice("\[[skill_name], [dice]+[skill]\] <b>[user]</b> [first_phrase].") // [Luck, 1d20+5] Player tests their luck.
-	user.visible_message(
+	var/init_message = SK.get_rollmote_initial_msg(user)
+	var/datum/roll_return/RT = SSsas.do_roll(user, SK.key, dice)
+	var/first_phrase = RT.msg_pre
+	var/modshow = ""
+	if(modshow > 0)
+		modshow = "+[RT.mods]"
+	if(modshow < 0)
+		modshow = "[RT.mods]"
+	var/turf/T = get_turf(user)
+
+	var/message_first = span_notice("\[[SK.displayname], [dice]+[RT.base][modshow]\] <b>[user]</b> [first_phrase].") // [Luck, 1d20+5] Player tests their luck.
+	T.visible_message(
 		message = message_first,
 		self_message = message_first,
 		blind_message = message_first)
@@ -492,17 +206,20 @@ GLOBAL_LIST_INIT(special_phrases, list(
 		if(!can_run_emote(user, TRUE,intentional))
 			return
 	
-		var/result_message = span_notice("[user] rolled [roll(dice)+skill]!")
-		user.visible_message(
+		var/result_message = span_notice("[user] rolled [RT.resultnum]!")
+		T.visible_message(
 			message = result_message,
 			self_message = result_message,
 			blind_message = result_message)
 		user.emote_for_ghost_sight(result_message)
 
+
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
 /mob/living/verb/suggest_skillcheck(mob/living/target)
 	set category = "Roleplaying"
 	set name = "Suggest Skillcheck"
-	var/skill = input(usr, "Which skill?", "Skill Suggester 9000", null) as null|anything in GLOB.special_skill_list
+	var/skill = input(usr, "Which skill?", "Skill Suggester 9000", null) as null|anything in SSsas.get_skills()
 	if(isnull(skill))
 		return
 	to_chat(target, span_info("[usr.name] would like you to perform a [skill] check."))
@@ -511,13 +228,13 @@ GLOBAL_LIST_INIT(special_phrases, list(
 	set category = "Roleplaying"
 	set name = "Skill Contest"
 	// decide skill
-	var/skill = input(usr, "Which skill?", "Skill Chooser 9001", null) as null|anything in GLOB.special_skill_list
+	var/skill = input(usr, "Which skill?", "Skill Chooser 9001", null) as null|anything in SSsas.get_skills()
 	if(isnull(skill))
 		return
 
 	// decide the contest
 	var/dice = input(usr, "What kind of dice? (ex: 1d20) \nIf nothing happens, you probably typed this wrong.", null) as null|text
-	if(!roll(dice))
+	if(isnull(roll(dice)))
 		return
 	// get consent
 	var/consent = alert(target, "[usr.name] would like to compete in a [dice] [skill] contest.",, "Agree", "Deny")
@@ -525,51 +242,20 @@ GLOBAL_LIST_INIT(special_phrases, list(
 		to_chat(usr, span_info("[target.name] doesn't seem like they want to participate in a contest."))
 		return
 
-	// run contest
-	var/usr_skill = 0
-	var/target_skill = 0
-	switch(skill)
-		if(EMOTE_SPECIAL_STR)
-			usr_skill = usr.special_s
-			target_skill = target.special_s
-		if(EMOTE_SPECIAL_PER)
-			usr_skill = usr.special_p
-			target_skill = target.special_p
-		if(EMOTE_SPECIAL_END)
-			usr_skill = usr.special_e
-			target_skill = target.special_e
-		if(EMOTE_SPECIAL_CHA)
-			usr_skill = usr.special_c
-			target_skill = target.special_c
-		if(EMOTE_SPECIAL_INT)
-			usr_skill = usr.special_i
-			target_skill = target.special_i
-		if(EMOTE_SPECIAL_AGI)
-			usr_skill = usr.special_a
-			target_skill = target.special_a
-		if(EMOTE_SPECIAL_LCK)
-			usr_skill = usr.special_l
-			target_skill = target.special_l
+	var/datum/statskill/SK = SSsas.get_stat_by_trigger(skill)
+	var/datum/return_roll/my_roll = SSsas.do_roll(usr, SK.key, dice)
+	var/datum/return_roll/their_roll = SSsas.do_roll(target, SK.key, dice)
 
-	var/usr_result = roll(dice) + usr_skill
-	var/target_result = roll(dice) + target_skill
-
-
-	var/winner
-	var/winner_result
-	var/loser
-	var/loser_result
-
-	if(usr_result > target_result)
+	if(my_roll.resultnum > their_roll.resultnum)
 		winner = usr
-		winner_result = usr_result
+		winner_result = my_roll.resultnum
 		loser = target
-		loser_result = target_result
+		loser_result = their_roll.resultnum
 	else
 		winner = target
-		winner_result = target_result
+		winner_result = their_roll.resultnum
 		loser = usr
-		loser_result = usr_result
+		loser_result = my_roll.resultnum
 
 	to_chat(winner, span_green("You won the [skill] contest! ([winner_result] vs [loser_result])"))
 	to_chat(loser, span_alert("You lost the [skill] contest! ([loser_result] vs [winner_result])"))

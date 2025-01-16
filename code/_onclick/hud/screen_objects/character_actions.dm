@@ -291,13 +291,13 @@
 /atom/movable/screen/roll_hud_button/Click(location,control,params,)
 // This stuff needs to be changed because it was directly lifted from clothing
 	var/static/list/choices = list(
-			"Brawn" = image(icon = 'icons/obj/stationary.dmi', icon_state = "fitnessweight-w"),
-			"Awareness" = image(icon = 'icons/obj/status_display.dmi', icon_state = "ai_friend"),
-			"Toughness" = image(icon = 'modular_coyote/icons/objects/weapons.dmi', icon_state = "imperial_kite"),
-			"Moxie" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "mood9"),
-			"Smarts" = image(icon = 'modular_roguetown/items/books.dmi', icon_state = "ledger0"),
-			"Deftness" = image(icon = 'icons/obj/implants.dmi', icon_state = "warp"),
-			"Fate" = image(icon = 'icons/obj/economy.dmi', icon_state = "coin_iron_flip"),
+			"Brawn" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "brawn"),
+			"Awareness" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "awareness"),
+			"Toughness" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "toughness"),
+			"Moxie" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "moxie"),
+			"Smarts" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "smarts"),
+			"Deftness" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "deftness"),
+			"Fate" = image(icon = 'icons/mob/screen_gen.dmi', icon_state = "fate"),
 		)
 	var/mob/user = usr
 	var/choice = show_radial_menu(user, src, choices, radius = 32,)
